@@ -4,16 +4,16 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   ███████╗██╗   ██╗██████╗ ██████╗ ██████╗ ██╗████████╗            ║
-║   ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝            ║
-║   ███████╗██║   ██║██████╔╝██████╔╝██████╔╝██║   ██║               ║
-║   ╚════██║██║   ██║██╔═══╝ ██╔═══╝ ██╔══██╗██║   ██║               ║
-║   ███████║╚██████╔╝██║     ██║     ██║  ██║██║   ██║               ║
-║   ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝               ║
+║   ███████╗██╗   ██╗██████╗ ██████╗ ██████╗ ██╗████████╗              ║
+║   ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝              ║
+║   ███████╗██║   ██║██████╔╝██████╔╝██████╔╝██║   ██║                 ║
+║   ╚════██║██║   ██║██╔═══╝ ██╔═══╝ ██╔══██╗██║   ██║                 ║
+║   ███████║╚██████╔╝██║     ██║     ██║  ██║██║   ██║                 ║
+║   ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝                 ║
 ║                                                                      ║
-║                  > SUPPRIT DAS — FULL STACK ENGINEER                ║
-║                  > KOLKATA, INDIA 🇮🇳                                ║
-║                  > READY TO BUILD. READY TO SHIP. 🚀                ║
+║                  > SUPPRIT DAS — FULL STACK ENGINEER                 ║
+║                  > KOLKATA, INDIA 🇮🇳                                 ║
+║                  > READY TO BUILD. READY TO SHIP. 🚀                 ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -48,7 +48,7 @@ $ uptime
 ```
 ╭─────────────────────────────────────────────────────╮
 │  USER      : Supprit Das                            │
-│  HANDLE    : @suppritdas                            │
+│  HANDLE    : @Supp140106                            │
 │  NODE      : Kolkata, India 🗺️                      │
 │  PROCESS   : Full Stack Developer                   │
 │  PID       : Still Running...                       │
@@ -129,13 +129,13 @@ $ ps aux | grep supprit
 ```
 
 ```
-PID    COMMAND             STATUS
-----   ---------           -------
-001    Building Projects   [RUNNING 🟢]
-002    Learning Golang     [RUNNING 🟢]
-003    Exploring DevOps    [RUNNING 🟢]
+PID    COMMAND              STATUS
+----   ---------            -------
+001    Building Projects    [RUNNING 🟢]
+002    Learning Golang      [RUNNING 🟢]
+003    Exploring DevOps     [RUNNING 🟢]
 004    Open Source Contribs [QUEUED ⏳]
-005    Drinking chai ☕     [ALWAYS RUNNING 🟢]
+005    Drinking chai ☕      [ALWAYS RUNNING 🟢]
 ```
 
 ---
@@ -144,15 +144,13 @@ PID    COMMAND             STATUS
 
 <div align="center">
 
-![Supprit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suppritdas&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![Supprit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supp140106&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suppritdas&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supp140106&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=suppritdas&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=Supp140106&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
-
-> ⚠️ Replace `suppritdas` with your actual GitHub username above.
 
 ---
 
@@ -163,15 +161,13 @@ $ netstat -tulnp | grep supprit
 ```
 
 ```
-Proto  Port    Service          Address
------  ------  ---------------  ---------------------------------
-TCP    🔗      LinkedIn         linkedin.com/in/suppritdas
-TCP    🐦      Twitter/X        twitter.com/suppritdas
-TCP    📧      Email            suppritdas@email.com
-TCP    🌏      Portfolio        suppritdas.dev
+Proto  Port    Service      Address
+-----  ------  -----------  -----------------------------------------
+TCP    🔗      LinkedIn     https://www.linkedin.com/in/supprit-das-b3a051312/
+TCP    💻      GitHub       https://github.com/Supp140106
+TCP    📧      Email        suppritdas@gmail.com
+TCP    🌏      Portfolio    https://suppritdas.vercel.app/
 ```
-
-> 📌 Update the links above with your actual profiles!
 
 ---
 
@@ -210,6 +206,6 @@ $ cat ~/quotes.txt
 ╚══════════════════════════════════════════════════╝
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=suppritdas.suppritdas)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Supp140106.Supp140106)
 
 </div>
